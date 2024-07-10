@@ -1,3 +1,3 @@
-# -e-learning-landing-page-FrontEnd-Mentor
- e-learning landing page From FrontEnd Mentor using HTML and CSS
+# -e-learning-landing-page
+ e-learning landing page made using HTML and CSS
 
